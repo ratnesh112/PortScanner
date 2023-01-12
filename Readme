@@ -1,0 +1,4 @@
+It's Port Scanner for Common Port Range(0,1024)
+
+Run in Linux 
+  python3 Scanner.py (ip)
